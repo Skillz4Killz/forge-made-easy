@@ -1,0 +1,16 @@
+{
+  "name": "forge-made-easy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc --init"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@forge/api": "^5.0.1",
+    "typescript": "^5.8.2"
+  }
+}
